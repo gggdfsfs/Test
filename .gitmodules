@@ -4,3 +4,6 @@
 [submodule "SubModule2"]
 	path = SubModule2
 	url = git@github.com:gggdfsfs/SubTest2.git
+[submodule "SubModule3"]
+	path = SubModule3
+	url = git@github.com:gggdfsfs/SubTest3.git
